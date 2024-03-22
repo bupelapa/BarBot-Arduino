@@ -1,9 +1,11 @@
 # BarBot-Arduino
 Program made for operating a drink serving robot I made for college 
 
+VIDEO DE APRESENTA√á√ÉO: https://youtu.be/b-bv3vc0-uY
+
 Portugues: 
 
-Este projeto foi feito para conclus„o da matÈria "Oficinas de IntegraÁ„o" do curso de Engenharia de ComputaÁ„o da UTFPR/Curitiba, no 2/Sem de 2022. Ele contem o cÛdigo em java script necess·rio para realizar mudanÁas no VScode, alÈm do cÛdigo do arduino feito.
+Este projeto foi feito para conclus√£o da mat√©ria "Oficinas de Integra√ß√£o" do curso de Engenharia de Computa√ß√£o da UTFPR/Curitiba, no 2/Sem de 2022. Ele contem o c√≥digo em java script necess√°rio para realizar mudan√ßas no VScode, al√©m do c√≥digo do arduino feito.
 
 English:
 
